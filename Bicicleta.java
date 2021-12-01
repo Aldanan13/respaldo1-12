@@ -21,7 +21,7 @@ public class Bicicleta {
         this.anio=anio; 
         this.precio=precio;
     } 
-    
+    //get
     public String getNroDeSerie(){
         return nroDeSerie;
     }
